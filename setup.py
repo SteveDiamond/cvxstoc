@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="cvxstoc",
-    version="0.2.1",
+    version="0.2.2",
     author="Alnur Ali",
     packages=["cvxstoc"],
     license="GPLv3",
